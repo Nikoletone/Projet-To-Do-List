@@ -1,11 +1,22 @@
-Requirements
-You are required to develop a RESTful API with following endpoints
+##Objetivos
+Las habilidades que aprenderás en este proyecto incluyen:
 
-User registration to create a new user
-Login endpoint to authenticate the user and generate a token
-CRUD operations for managing the to-do list
-Implement user authentication to allow only authorized users to access the to-do list
-Implement error handling and security measures
-Use a database to store the user and to-do list data (you can use any database of your choice)
-Implement proper data validation
-Implement pagination and filtering for the to-do list
+-Autenticación de usuario
+-Diseño de esquemas y bases de datos
+-Diseño de API RESTful
+-Operaciones CRUD
+-Manejo de errores
+-Seguridad
+-Requisitos
+
+
+##Se requiere desarrollar una API RESTful con los siguientes puntos finales
+
+-Registro de usuario para crear un nuevo usuario
+-Punto final de inicio de sesión para autenticar al usuario y generar un token
+-Operaciones CRUD para gestionar la lista de tareas pendientes
+-Implementar la autenticación de usuarios para permitir que solo los usuarios autorizados accedan a la lista de tareas pendientes
+-Implementar medidas de seguridad y manejo de errores
+-Utilice una base de datos para almacenar los datos del usuario y de la lista de tareas pendientes (puede utilizar cualquier base de datos de su elección)
+-Implementar una validación de datos adecuada
+-Implementar paginación y filtrado para la lista de tareas pendientes
